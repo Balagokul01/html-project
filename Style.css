@@ -9,3 +9,18 @@ header
 {
   background-color:darkturquoise;
  }
+
+ul
+{
+  list-style:none;
+ }
+
+ul li
+{
+  display:inline-block;
+ }
+
+header nav 
+{
+  float:right;
+ }
