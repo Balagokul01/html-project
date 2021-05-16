@@ -37,7 +37,7 @@ header nav ul li a
  padding-right:30px;
 font-weight:bold;
 color: white;
-transition: all in 0.5s ease-in;
+transition: all in 0.5s fade-in;
 }
 
 header nav ul li a:hover
