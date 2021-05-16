@@ -36,5 +36,11 @@ header nav ul li a
 {
  padding-right:30px;
 font-weight:bold;
+color: white;
 }
 
+header nav ul li a:hover
+{
+text-decoration:none;
+
+}
