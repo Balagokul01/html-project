@@ -22,7 +22,7 @@ pageAnchorBuilder:false
 
 
 
-})
+});
 
 
 
