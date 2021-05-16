@@ -32,3 +32,8 @@ header nav
  margin-top:30px;
 }
 
+header nav ul li a
+{
+ padding-right:30px;
+}
+
